@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - Maze
+  - Fruit
+  - Saw
+  - Trophy
+  - Box
+  - Ground
   layers:
   - Default
   - TransparentFX
